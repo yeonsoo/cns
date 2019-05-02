@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value=".do" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value=".do"/>
+			<item value=".html"/>
+			<item value="yonhap"/>
+			<item value=".htm"/>
+			<item value="html"/>
+			<item value="&#x09;  &lt;!-- Bootstrap core JavaScript --&gt;"/>
+			<item value="카테고리"/>
+			<item value="조선"/>
+			<item value="mypage"/>
+			<item value="mypa"/>
+			<item value="mypage.html"/>
+			<item value="정치"/>
+			<item value="타임라인"/>
+			<item value="tag"/>
+			<item value="com.spring.sample"/>
+		</list>
+		<list key="replacehistory">
+			<item value=".do"/>
+			<item value="myPage.do"/>
+			<item value="myPaage.do"/>
+			<item value="과학"/>
+			<item value="경제"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="340" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="454" key="DIALOG_HEIGHT"/>
+		<item value="1440" key="DIALOG_X_ORIGIN"/>
+		<item value="144" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
