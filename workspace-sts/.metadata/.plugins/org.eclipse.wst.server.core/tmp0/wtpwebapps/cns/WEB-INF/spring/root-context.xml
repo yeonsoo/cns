@@ -42,8 +42,8 @@
 	</bean>
 
 	<context:component-scan
-		base-package="com.example.dao"></context:component-scan>
+		base-package="com.cns.dao"></context:component-scan>
 	<context:component-scan
-		base-package="com.example.service"></context:component-scan>
+		base-package="com.cns.service"></context:component-scan>
 
 </beans>

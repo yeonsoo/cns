@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MyBatisTest" project="cns" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.sample.mybatis.MyBatisTest" time="0.007">
+    <testcase name="testFactory" classname="com.sample.mybatis.MyBatisTest" time="0.007"/>
+    <testcase name="testSession" classname="com.sample.mybatis.MyBatisTest" time="0.0"/>
+  </testsuite>
+</testrun>

@@ -12,8 +12,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.example.dto.NewsVO;
-import com.example.service.NewsService;
+import com.cns.dto.NewsVO;
+import com.cns.service.NewsService;
 
 /**
  * Handles requests for the application home page.
@@ -188,4 +188,24 @@ public class CnsController {
 		// model.addAttribute("newsList", newsList);
 	}
 
+	@RequestMapping(value = "login", method = RequestMethod.GET)
+	public void login(Locale locale, Model model) throws Exception {
+
+		logger.info("login");
+
+		// List<NewsVO> newsList = nservice.selectNews();
+
+		// model.addAttribute("newsList", newsList);
+	}
+	
+
+	@RequestMapping(value = "signup", method = RequestMethod.GET)
+	public void signup(Locale locale, Model model) throws Exception {
+
+		logger.info("signup");
+
+		// List<NewsVO> newsList = nservice.selectNews();
+
+		// model.addAttribute("newsList", newsList);
+	}
 }

@@ -29,7 +29,7 @@
 		style="background-color: #A566FF">
 		<!-- bg-dark  -->
 		<div class="container">
-			<a class="navbar-brand" href="index.html">QuadCore Test Website</a>
+			<a class="navbar-brand" href="../.do">QuadCore News</a>
 			<button class="navbar-toggler navbar-toggler-right" type="button"
 				data-toggle="collapse" data-target="#navbarResponsive"
 				aria-controls="navbarResponsive" aria-expanded="false"
@@ -38,7 +38,7 @@
 			</button>
 			<div class="collapse navbar-collapse" id="navbarResponsive">
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item"><a class="nav-link" href="index.html">Home</a>
+					<li class="nav-item"><a class="nav-link" href="../.do">Home</a>
 					</li>
 					<li class="nav-item dropdown"><a
 						class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog"
@@ -46,31 +46,24 @@
 							카테고리 </a>
 						<div class="dropdown-menu dropdown-menu-right"
 							aria-labelledby="navbarDropdownBlog">
-							<a class="dropdown-item" href="blog-home-1.html">정치</a> <a
-								class="dropdown-item" href="blog-home-2.html">경제</a> <a
-								class="dropdown-item" href="blog-post.html">사회</a> <a
-								class="dropdown-item" href="blog-post.html">생활문화</a> <a
-								class="dropdown-item" href="blog-post.html">IT과학</a>
+							<a class="dropdown-item" href="../category/politics.do">정치</a> <a
+								class="dropdown-item" href="../category/economy.do">경제</a> <a
+								class="dropdown-item" href="../category/society.do">사회</a> <a
+								class="dropdown-item" href="../category/living.do">생활문화</a> <a
+								class="dropdown-item" href="../category/itscience.do">IT과학</a>
 						</div></li>
-					<li class="nav-item active dropdown"><a
-						class="nav-link dropdown-toggle" href="#"
-						id="navbarDropdownPortfolio" data-toggle="dropdown"
-						aria-haspopup="true" aria-expanded="false"> 타임라인 </a>
-						<div class="dropdown-menu dropdown-menu-right"
-							aria-labelledby="navbarDropdownPortfolio">
-							<a class="dropdown-item active" href="timeLine.html">#취업</a> <a
-								class="dropdown-item" href="portfolio-2-col.html">#미국</a> <a
-								class="dropdown-item" href="portfolio-3-col.html">#스카이캐슬</a>
-						</div></li>
+					<li class="nav-item"><a class="nav-link" href="../tag.do">태그</a></li>
 					<li class="nav-item dropdown"><a
 						class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog"
 						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							신문사 </a>
 						<div class="dropdown-menu dropdown-menu-right"
 							aria-labelledby="navbarDropdownBlog">
-							<a class="dropdown-item" href="full-width.html">조선일보</a> <a
-								class="dropdown-item" href="sidebar.html">중앙일보</a> <a
-								class="dropdown-item" href="faq.html">동아일보</a>
+							<a class="dropdown-item" href="chosun.do">조선일보</a> <a
+								class="dropdown-item" href="joongang.do">중앙일보</a> <a
+								class="dropdown-item" href="donga.do">동아일보</a> <a
+								class="dropdown-item" href="hankyoreh.do">한겨례</a> <a
+								class="dropdown-item" href="yonhap.do">연합뉴스</a>
 						</div></li>
 				</ul>
 			</div>
