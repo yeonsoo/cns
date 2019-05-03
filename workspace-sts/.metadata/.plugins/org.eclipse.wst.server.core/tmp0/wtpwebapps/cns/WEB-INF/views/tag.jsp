@@ -29,7 +29,7 @@
 		style="background-color: #A566FF">
 		<!-- bg-dark  -->
 		<div class="container">
-			<a class="navbar-brand" href="news_index.do">QuadCore Test Website</a>
+			<a class="navbar-brand" href=".do">QuadCore News</a>
 			<button class="navbar-toggler navbar-toggler-right" type="button"
 				data-toggle="collapse" data-target="#navbarResponsive"
 				aria-controls="navbarResponsive" aria-expanded="false"
@@ -38,7 +38,7 @@
 			</button>
 			<div class="collapse navbar-collapse" id="navbarResponsive">
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item"><a class="nav-link" href="news_index.do">Home</a>
+					<li class="nav-item"><a class="nav-link" href=".do">Home</a>
 					</li>
 					<li class="nav-item dropdown"><a
 						class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog"
@@ -52,16 +52,7 @@
 							<a class="dropdown-item" href="category/living.do">생활문화</a> 
 							<a class="dropdown-item" href="category/itScience.do">IT과학</a>
 						</div></li>
-					<li class="nav-item active dropdown"><a
-						class="nav-link dropdown-toggle" href="#"
-						id="navbarDropdownPortfolio" data-toggle="dropdown"
-						aria-haspopup="true" aria-expanded="false"> 타임라인 </a>
-						<div class="dropdown-menu dropdown-menu-right"
-							aria-labelledby="navbarDropdownPortfolio">
-							<a class="dropdown-item active" href="tag.do">#취업</a>
-							<a class="dropdown-item" href="tag.do">#미국</a> <a
-								class="dropdown-item" href="tag.do">#스카이캐슬</a>
-						</div></li>
+					<li class="nav-item"><a class="nav-link" href="../tag.do">태그</a></li>
 					<li class="nav-item dropdown"><a
 						class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog"
 						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

@@ -4,7 +4,7 @@
     "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
 	<typeAliases>
-		<typeAlias type="com.example.dto.NewsVO" alias="NewsVO" />
+		<typeAlias type="com.cns.dto.NewsVO" alias="NewsVO" />
 	</typeAliases>
 </configuration>
 

@@ -28,7 +28,7 @@
 	<nav class="navbar fixed-top navbar-expand-lg navbar-dark fixed-top"
 		style="background-color: #A566FF">
 		<div class="container">
-			<a class="navbar-brand" href="news_index.do">QuadCore News</a>
+			<a class="navbar-brand" href=".do">QuadCore News</a>
 		</div>
 	</nav>
 

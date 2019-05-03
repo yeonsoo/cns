@@ -9,7 +9,7 @@
 		이렇게 해야 한다. -->
 
 	<select id="selectNews" resultType="newsVO">
-		SELECT ID, TITLE, ARTICLE, COMPANY, CATEGORY FROM NEWS
+		SELECT news_id, news_title, news_content, category, date_of_news,news_count,summarize FROM NEWS
 	</select>
 
 
